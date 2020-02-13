@@ -1,0 +1,25 @@
+{
+  "name": "newscron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgavirias13/newsCron.git"
+  },
+  "author": "Juan Pablo Gaviria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgavirias13/newsCron/issues"
+  },
+  "homepage": "https://github.com/jgavirias13/newsCron#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.8.12",
+    "node-cron": "^2.0.3"
+  }
+}
